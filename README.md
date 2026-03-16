@@ -1,35 +1,31 @@
-Text-to-Speech Desktop App
+AI Text-to-Speech Desktop App
 
-A lightweight desktop application that converts text into natural AI-generated speech.
-This project was built in Python with a graphical user interface, allowing users to type text, select different voices, and hear the generated speech instantly.
+A lightweight desktop application that converts typed text into natural AI-generated speech.
+This project was built in Python and includes a graphical interface that allows users to type text, choose different voices, and hear the generated speech instantly.
 Features
 Neural AI text-to-speech voices
 Voice selection buttons
-Desktop GUI built with Tkinter
+Simple desktop interface
 Instant audio playback inside the application
-Simple and responsive interface
 
 Technologies Used
 Python
-Tkinter (GUI framework)
-edge-tts (neural voice generation)
+Tkinter (GUI)
+edge-tts (AI speech generation)
 sounddevice & soundfile (audio playback)
 
-
 Installation
-
 Clone the repository
 git clone https://github.com/YOURUSERNAME/ai-text-to-speech-app.git
 Install dependencies
 pip install -r requirements.txt
-Run the application
-python tts_app.py
+Run the program
+python TTS.py
 
-Project Goal
-
-The goal of this project was to explore how AI voice synthesis can be integrated into a local desktop application. It also demonstrates basic GUI design, asynchronous programming, and audio processing in Python.
+Purpose
+This project was created to explore how AI speech synthesis can be integrated into a local desktop application using Python.
 Future Improvements
 Add more voice options
-Improve the UI design
+Improve the user interface
 Add speech speed and pitch controls
-Implement microphone input for voice commands
+Add microphone input
