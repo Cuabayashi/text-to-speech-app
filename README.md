@@ -15,16 +15,8 @@ Instant audio playback inside the application
 -sounddevice & soundfile (audio playback)
 
 **Installation**
-1. Clone the repository
-  git clone https://github.com/YOURUSERNAME/ai-text-to-speech-app.git
-  Install dependencies
-  pip install -r requirements.txt
-  Run the program
-  python TTS.py
 
-OR
-
-2. Download the App 
+ Download the app from the release. 
 
 **Purpose**
 This project was created to explore how AI speech synthesis can be integrated into a local desktop application using Python.
