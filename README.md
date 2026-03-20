@@ -1,4 +1,4 @@
-Text-to-Speech Desktop App For Windows
+**Text-to-Speech Desktop App For Windows**
 
 A lightweight desktop application that converts typed text into natural AI-generated speech.
 This project was built in Python and includes a graphical interface that allows users to type text, choose different voices, and hear the generated speech instantly.
@@ -8,13 +8,13 @@ Voice selection buttons
 Simple desktop interface
 Instant audio playback inside the application
 
-Technologies Used
+**Technologies Used**
 -Python
 -Tkinter (GUI)
 -edge-tts (AI speech generation)
 -sounddevice & soundfile (audio playback)
 
-Installation
+**Installation**
 1. Clone the repository
   git clone https://github.com/YOURUSERNAME/ai-text-to-speech-app.git
   Install dependencies
@@ -26,7 +26,7 @@ OR
 
 2. Download the App 
 
-Purpose
+**Purpose**
 This project was created to explore how AI speech synthesis can be integrated into a local desktop application using Python.
 Future Improvements
 Improve the user interface
@@ -34,7 +34,7 @@ Add speech speed and pitch controls
 Add microphone input
 
 
-[UPDATES] 3/15/2026
+**[UPDATES] 3/15/2026**
 - Created a standalone application for ease of use and ready to use upon downloading
 - Added Voice Pitch and Speed controls ( can be reset with a reset button)
 - Updated UI
