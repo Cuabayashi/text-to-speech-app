@@ -19,6 +19,7 @@ Instant audio playback inside the application
  Download the app from the release. 
 
 **Purpose**
+
 This project was created to explore how AI speech synthesis can be integrated into a local desktop application using Python.
 Future Improvements
 Improve the user interface
